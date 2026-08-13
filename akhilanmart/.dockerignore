@@ -1,0 +1,7 @@
+/target/
+/db/
+.git/
+.idea/
+*.iml
+README.md
+MVP_REVIEW.md
